@@ -192,5 +192,5 @@ if __name__ == "__main__":
     t2 = time.perf_counter()
     print(t2-t1)
     linkPred.linkPred(U)
-    node_classification(U)
+    #node_classification(U)
         
